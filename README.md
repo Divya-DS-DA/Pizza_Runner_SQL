@@ -1,5 +1,5 @@
 # Pizza-Runner-Project
-A small project done in MySQL
+A small project done in SQL_capstone
 
 I have created a schema to replicate data from pizza delivery shop.
 Data consists of seven tables; customer_orders, pizza_names,
